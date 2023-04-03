@@ -25,7 +25,7 @@ A [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) SQ
     - Data insertion into Fact Table
  6. **fact-table-queries.sql**
     - Several Queries execution
-    - Rollup Creation
-    - CUBE creation
+    - Rollup Report creation
+    - CUBE Report creation
  7. PowerBi report (included in final report [link](https://docs.google.com/document/d/1HrqLT3ozYDMu_xx_N4iPkm_lM2L2IUTUMjzC2TET6dU/edit?usp=share_link))
 
