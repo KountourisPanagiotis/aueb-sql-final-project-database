@@ -9,14 +9,14 @@ A [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) SQ
 
 ## Steps Briefing
 1. **database-bulk.insert.sql**
-    - Creates database
-    - Creates table campData
-    - Bulk inserts data from campData.txt given database file
+    - creation of database
+    - creation of table campData
+    - Bulk insertion data from campData.txt given database file
 2. **normalization-database.creation.sql**
-    - Normalized 3d Normal Form
+    - Normalization (3d Normal Form)
     - creation of relational database
 3. **insert-data-into-tables.sql**
-    - Selecting Data from campData and inserting them into tables
+    - Selection of Data from campData and insertion into tables
 4. **select-queries-and-optimization.sql**
     - Several Select Queries testing
     - Index creation for queries optimization
