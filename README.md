@@ -27,5 +27,5 @@ A [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) SQ
     - Several Queries execution
     - Rollup Report creation
     - CUBE Report creation
- 7. PowerBi report (included in final report [link](https://docs.google.com/document/d/1HrqLT3ozYDMu_xx_N4iPkm_lM2L2IUTUMjzC2TET6dU/edit?usp=share_link))
+ 7. PowerBi report (included in complete final project [link](https://docs.google.com/document/d/1HrqLT3ozYDMu_xx_N4iPkm_lM2L2IUTUMjzC2TET6dU/edit?usp=share_link))
 
