@@ -1,6 +1,6 @@
 # aueb-sql-final-project-database
 
-## Athens Univercity of Economics and Business ([AUEB](https://aueb.gr/))
+## Athens University of Economics and Business ([AUEB](https://aueb.gr/))
 A [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) SQL Project. Final Project
 
 ## Project info
