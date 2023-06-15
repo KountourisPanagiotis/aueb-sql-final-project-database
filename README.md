@@ -29,10 +29,15 @@ A [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) SQ
     - CUBE Report creation
  7. PowerBi report (included in complete final project [link](https://docs.google.com/document/d/1HrqLT3ozYDMu_xx_N4iPkm_lM2L2IUTUMjzC2TET6dU/edit?usp=share_link))
 
-## Database Diagram
-![DatabaseDiagram](camping-database-diagram.jpg)
+<div align="center">
+  <h2>Database Diagram</h2>
+  <img src="camping-database-diagram.jpg" alt="Database Diagram" width="700" height="500">
 
-## Fact Table
-![DatabaseDiagram](fact-table-campdw.png)
+  <h2>Fact Table</h2>
+  <img src="fact-table-campdw.png" alt="Fact Table" width="700" height="500">
+</div>
+
+
+
 
 
