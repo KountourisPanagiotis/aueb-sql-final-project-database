@@ -4,9 +4,9 @@
 A [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) SQL Project. Final Project
 
 ## Project info
-- Campings Database Managment CAMPDW
-- Read the pre-project requirements for implementation [here](https://drive.google.com/file/d/1_8gIdewyfhv6x67EeV9i8NTQllBPQgMl/view?usp=sharing)
-- Read my complete final project [here](https://docs.google.com/document/d/1HrqLT3ozYDMu_xx_N4iPkm_lM2L2IUTUMjzC2TET6dU/edit?usp=share_link)
+- Campings Database Managment CAMPDW.
+- Read the pre-project requirements for implementation [here](https://drive.google.com/file/d/1_8gIdewyfhv6x67EeV9i8NTQllBPQgMl/view?usp=sharing).
+- Read my complete final project [here](https://docs.google.com/document/d/1HrqLT3ozYDMu_xx_N4iPkm_lM2L2IUTUMjzC2TET6dU/edit?usp=share_link).
 
 ## Steps Briefing
 1. **database-bulk.insert.sql**
