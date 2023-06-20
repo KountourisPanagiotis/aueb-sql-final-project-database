@@ -4,11 +4,12 @@
 A [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) SQL Project. Final Project
 
 ## Project info
+- Use of Microsoft SQL Server
 - Campings Database Managment CAMPDW.
 - Read the pre-project requirements for implementation [here](https://drive.google.com/file/d/1_8gIdewyfhv6x67EeV9i8NTQllBPQgMl/view?usp=sharing).
 - Read my complete final project [here](https://docs.google.com/document/d/1HrqLT3ozYDMu_xx_N4iPkm_lM2L2IUTUMjzC2TET6dU/edit?usp=share_link).
 
-## Steps Briefing
+## Steps Briefing (Microsoft SQL Server)
 1. **database-bulk.insert.sql**
     - creation of database
     - creation of table campData
@@ -29,6 +30,10 @@ A [Coding Factory](https://codingfactory.aueb.gr/) @ [AUEB](https://aueb.gr/) SQ
     - Rollup Report creation
     - CUBE Report creation
  7. PowerBi report (included in complete final project [link](https://docs.google.com/document/d/1HrqLT3ozYDMu_xx_N4iPkm_lM2L2IUTUMjzC2TET6dU/edit?usp=share_link))
+
+## A second look (MySQL Server)
+- Transition of this database from Microsoft SQL server to MySQL Server for the needs of [campings-backend](https://github.com/KountourisPanagiotis/campings-backend) repository.
+- Alterations for MySQL Server and full creation query can be found here : [camping-database-MySQL.sql](camping-database-MySQL.sql) 
 
 <div align="center">
   <h2>Database Diagram</h2>
